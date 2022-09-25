@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\Cs Array methods.exe
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\Cs Array methods.deps.json
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\Cs Array methods.runtimeconfig.json
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\Cs Array methods.dll
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\ref\Cs Array methods.dll
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\bin\Debug\net6.0\Cs Array methods.pdb
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.dll
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\ref\Cs Array methods.dll
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.pdb
+C:\Users\User\source\repos\Cs Array methods\Cs Array methods\obj\Debug\net6.0\Cs Array methods.genruntimeconfig.cache
