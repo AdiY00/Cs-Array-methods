@@ -17,6 +17,7 @@ static int[] Append(int[] arr, int num)
     return ret;
 }
 
+//2-5.
 static int[] Get(int[] arr, int num, string op, bool returnIndexes = false)
 {//would be way better with lists but ok
     
